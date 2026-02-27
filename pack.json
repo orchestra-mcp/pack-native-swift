@@ -1,0 +1,14 @@
+{
+    "name": "orchestra-mcp/pack-native-swift",
+    "description": "Swift and macOS/iOS native plugin development agents",
+    "version": "0.1.0",
+    "type": "pack",
+    "license": "MIT",
+    "stacks": ["swift"],
+    "contents": {
+        "skills": [],
+        "agents": ["swift-plugin"],
+        "hooks": []
+    },
+    "tags": ["swift", "macos", "ios", "swiftui", "widgetkit"]
+}
